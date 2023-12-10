@@ -13,7 +13,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
@@ -36,8 +35,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Single price grid component by HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/single-price-grid-component-by-html-and-css-sass-lko1qj6JDz)
-- Live Site URL: [Single price grid component](https://vangmanawkairung.github.io/single-price-grid/)
+- Solution URL: [Stats preview card using HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/stats-preview-card-using-html-and-css-sass-5_41bq0aZM)
+- Live Site URL: [Stats preview card component](https://vangmanawkairung.github.io/stats-preview-card/)
 
 ## My process
 
@@ -53,14 +52,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - The border radius for the element with backgound-image has to re-assign
 
-### Continued development
-
-Since the given design doesn't provide the hover state, so the future work will be handling with the hover state or active state to make the website more responsive.
-
 ### Useful resources
 
-- [grid - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - This website helps me to handle with the grid display layout
-- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - This website clearifies the grid layout attributes.
+- [How to Create an Overlay](https://www.w3schools.com/howto/howto_css_overlay.asp) - This website helps me to handle with color overlay of cover image
 
 
 ## Author
