@@ -26,17 +26,17 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Screenshot
 <details>
 <summary><strong>Mobile View</strong></summary>
-<img src="./result/mobile view.png">
+<img src="source/result/mobile.png">
 </details>
 <details>
 <summary><strong>Descktop View</strong></summary>
-<img src="./result/desktop view.png">
+<img src="source/result/desktop.png">
 </details>
 
 ### Links
 
 - Solution URL: [Stats preview card using HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/stats-preview-card-using-html-and-css-sass-5_41bq0aZM)
-- Live Site URL: [Stats preview card component](https://vangmanawkairung.github.io/stats-preview-card/)
+- Live Site URL: [Frontend Mentor | Stats preview card component](https://vangmanawkairung.github.io/Frontend-Mentor_stats-preview-card-component/)
 
 ## My process
 

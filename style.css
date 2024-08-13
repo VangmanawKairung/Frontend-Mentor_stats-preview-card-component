@@ -61,7 +61,7 @@ body .container .info .score div span {
   body .container .image {
     width: 100%;
     height: 250px;
-    background-image: url(src/images/image-header-mobile.jpg);
+    background-image: url(source/images/image-header-mobile.jpg);
     background-size: cover;
     border-radius: 5px 5px 0 0;
   }
@@ -95,7 +95,7 @@ body .container .info .score div span {
     translate: -50% -50%;
   }
   body .container .image {
-    background-image: url(src/images/image-header-desktop.jpg);
+    background-image: url(source/images/image-header-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
