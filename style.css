@@ -1,130 +1,66 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
-:root {
-  font-size: 15px;
-}
-
 * {
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  color: hsl(0, 0%, 100%);
-  font-family: "Inter", sans-serif;
+  border: none;
+  outline: none;
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 body {
+  width: 100vw;
+  height: 100vh;
   background-color: hsl(233, 47%, 7%);
-  width: 100%;
 }
-body .container {
+
+.container {
   background-color: hsl(244, 38%, 16%);
-  border-radius: 5px;
+  display: grid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
 }
-body .container .image .overlay {
-  width: 100%;
-  height: 100%;
-  background-color: hsla(277, 100%, 36%, 0.53);
+
+h1,
+.stats li {
+  color: hsl(0, 0%, 100%);
+  font-weight: 700;
 }
-body .container .info h1 {
-  font-size: 1.8rem;
-}
-body .container .info h1 span {
+
+h1 span {
+  font-weight: 700;
   color: hsl(277, 64%, 61%);
 }
-body .container .info p {
-  font-weight: 400;
-  line-height: 1.5rem;
+
+p {
   color: hsla(0, 0%, 100%, 0.75);
 }
-body .container .info .score div {
-  width: -moz-fit-content;
-  width: fit-content;
+
+.stats li {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-body .container .info .score div h1 {
-  font-size: 1.8rem;
-  font-weight: 700;
-  padding-bottom: 5px;
-}
-body .container .info .score div span {
-  font-family: "Lexend Deca", sans-serif;
-  font-weight: 400;
-  text-transform: uppercase;
-  font-size: 0.8rem;
-  letter-spacing: 1px;
+.stats li span {
   color: hsla(0, 0%, 100%, 0.6);
+  font-family: "Lexend Deca";
+  text-transform: uppercase;
 }
-@media (min-width: 375px) and (max-width: 1439px) {
-  body .container {
-    margin: 80px auto;
-    display: block;
-    width: 330px;
-  }
-  body .container .image {
-    width: 100%;
-    height: 250px;
-    background-image: url(source/images/image-header-mobile.jpg);
-    background-size: cover;
-    border-radius: 5px 5px 0 0;
-  }
-  body .container .image .overlay {
-    border-radius: 5px 5px 0 0;
-  }
-  body .container .info {
-    text-align: center;
-    padding: 40px 30px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-  }
-  body .container .info h1 {
-    padding-bottom: 20px;
-  }
-  body .container .info .score div {
-    padding-top: 30px;
-  }
+
+.container {
+  width: 330px;
+  height: 780px;
+  grid-template-rows: 240px 1fr;
 }
-@media (min-width: 1440px) {
-  body .container {
-    width: 1000px;
-    height: 400px;
-    display: flex;
-    flex-direction: row-reverse;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    translate: -50% -50%;
-  }
-  body .container .image {
-    background-image: url(source/images/image-header-desktop.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 50%;
-    height: 100%;
-    border-radius: 0 5px 5px 0;
-  }
-  body .container .image .overlay {
-    border-radius: 0 5px 5px 0;
-  }
-  body .container .info {
-    width: 50%;
-    height: 100%;
-    padding: 60px 90px 60px 60px;
-  }
-  body .container .info h1 {
-    font-size: 2rem;
-    letter-spacing: 0.5px;
-    margin-bottom: 20px;
-  }
-  body .container .info .score {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 65px;
-  }
-  body .container .info .score div h1 {
-    margin: 0;
-    letter-spacing: 0;
-  }
-  body .container .info .score div span {
-    text-align: left;
-  }
-}
+.container .cover-image {
+  background-image: url(./sources/images/image-header-mobile.jpg);
+  background-color: #aa5cdb;
+  background-blend-mode: multiply;
+  filter: brightness(0.8) contrast(100%) saturate(100%);
+}/*# sourceMappingURL=style.css.map */
