@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Stats preview card using HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/stats-preview-card-using-html-and-css-sass-5_41bq0aZM)
+- Solution URL: [Stats preview card using HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/stats-preview-card-using-html-and-css-sass-Ny1Z0Mr1Aa)
 - Live Site URL: [Frontend Mentor | Stats preview card component](https://vangmanawkairung.github.io/Frontend-Mentor_stats-preview-card-component/)
 
 ## My process
