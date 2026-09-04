@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -13,8 +13,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,18 +29,20 @@ Users should be able to:
 
 ### Screenshot
 
-#### Mobile view
+![](./screenshot.jpg)
 
-![](./sources/screenshots/Mobile%20view.png)
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-#### Desktop view
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
-![](./sources/screenshots/Desktop%20view.png)
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Stats preview card using HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/stats-preview-card-using-html-and-css-sass-Ny1Z0Mr1Aa)
-- Live Site URL: [Frontend Mentor | Stats preview card component](https://vangmanawkairung.github.io/Frontend-Mentor_stats-preview-card-component/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -46,34 +51,71 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid Layout
+- CSS Grid
 - Mobile-first workflow
-- Responsive design
-- Typography
-- Background Overlay Effects
-- SCSS Responsive Workflow
-- Border Radius and Visual Styling
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
+
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-I deepened my understanding of CSS background and filter properties. I learned how to effectively use `background-blend-mode` to overlay colors on images, creating a more dynamic and visually appealing design. Additionally, I explored the `filter` property to adjust brightness, contrast, and saturation, which helped me fine-tune the visual effects of the background. These techniques allowed me to add a polished and professional touch to the component, enhancing both its aesthetics and functionality.
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+
+To see how you can add code snippets, see below:
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
+
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
+**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-I aim to further enhance my skills in creating more dynamic and interactive designs. Specifically, I want to explore CSS animations and transitions to add subtle visual effects, such as hover states or smooth element movements. Additionally, I plan to delve deeper into responsive design techniques to ensure layouts adapt seamlessly to various screen sizes. Integrating accessibility best practices is also a priority, ensuring my projects are usable and inclusive for all users. Finally, I’d like to experiment with JavaScript or frameworks like React to add interactivity and make my components more engaging.
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [background-blend-mode](https://css-tricks.com/almanac/properties/b/background-blend-mode/) - This website demonstrates how to use the property `background-blend-mode` with the examples.
-- [background-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode) - This website shows the document of `background-blend-mode` property.
-- [How to Change a CSS Background Image’s Opacity](https://www.digitalocean.com/community/tutorials/how-to-change-a-css-background-images-opacity) - This site presents how to fade the background image.
-- [brightness()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness) - This page demonstrates the ability of `brightness()` property. -[filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter) - This site shows how to use the `filter` property to modify the image.
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
+### AI Collaboration
+
+Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
+
+- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
+- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
+- What worked well? What didn't?
+
+**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
 
 ## Author
 
-- Frontend Mentor - [@VangmanawKairung](https://www.frontendmentor.io/profile/VangmanawKairung)
-- GitHub - [VangmanawKairung](https://github.com/VangmanawKairung)
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-I would like to extend my heartfelt gratitude to **Frontend Mentor** for providing this engaging and insightful challenge, which helped me improve my front-end development skills. A special thanks to **VSCode** for being my reliable coding environment and to the **Preview app on MacOS** and **Google Chrome** for enabling efficient testing and debugging. I also want to acknowledge the numerous online resources and tools that contributed to this project, including documentation, tutorials, and forums, which were invaluable in solving challenges and refining my code. Finally, I appreciate all the other tools and platforms, known and unknown, that played a role in supporting my learning journey and development process.
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
