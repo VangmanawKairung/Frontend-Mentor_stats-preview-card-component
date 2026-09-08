@@ -1,14 +1,14 @@
 const STATS_DATA = [
   { value: "10k+", label: "companies" },
   { value: "314", label: "templates" },
-  { value: "12m+", label: "queries" },
+  { value: "12M+", label: "queries" },
 ];
 
 const Info = () => {
   return (
     <section className="card__content">
       <h1 className="card__title">
-        Get <em className="card__title-highlight">insights</em> that help your business grow.
+        Get <em className="card__title--highlight">insights</em> that help your business grow.
       </h1>
       <p className="card__description">
         Discover the benefits of data analytics and make better decisions
