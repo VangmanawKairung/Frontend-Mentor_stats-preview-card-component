@@ -146,7 +146,7 @@ body {
 .footer__link {
   color: var(--clr-primary-purple-500);
   text-decoration: none;
-  font-weight: var(--fw-medium);
+  font-weight: var(--fw-bold);
 }
 
 .footer__link:hover,
